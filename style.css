@@ -41,8 +41,8 @@ margin:auto;}
 }
 .lastname{
   position: relative;
-  left:100px;
-  top:-85px;
+  left:130px;
+  top:-83px;
   line-height: 40px;
   border-radius:2px;
   border:transparent;
@@ -94,7 +94,7 @@ margin:auto;}
   
   .birthmonth{
   position: relative;
-  left:-120px;
+  left:-150px;
   top: 20px;
   line-height:40px;
   border-radius:2px;
