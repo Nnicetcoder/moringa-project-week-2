@@ -93,7 +93,7 @@ margin:auto;}
   
   .birthmonth{
   position: relative;
-  left:100px;
+  left:-50px;
   top: 20px;
   line-height:40px;
   border-radius:2px;
