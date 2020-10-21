@@ -94,7 +94,7 @@ margin:auto;}
   
   .birthmonth{
   position: relative;
-  left:-160px;
+  left:-165px;
   top: 20px;
   line-height:40px;
   border-radius:2px;
@@ -120,7 +120,7 @@ margin:auto;}
   }
   .birthday{
   position: relative;
-  left:-120px;
+  left:-165px;
   top: 35px;
   line-height:40px;
   border-radius:2px;
@@ -133,7 +133,7 @@ margin:auto;}
   }
   .submit{
    font-weight:400; 
-   left:-160px;
+   left:-200px;
    padding-top:20px;
    padding-left: 100px;
    font-weight: 300;
@@ -146,5 +146,5 @@ margin:auto;}
     color: black;
     width: 50px;
     height: 40px;
-    left:-120px;
+    left:-200px;
   }
