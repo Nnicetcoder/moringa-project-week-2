@@ -72,21 +72,21 @@ margin:auto;}
 
   }
   #birthmonth{
-   padding-left:-120px;
+   left:-120px;
    top: 100px;
    padding-top: 40px;
    padding-bottom: -20px;
    margin: 10px;
   }
   #birthyear{
-   padding-left:-120px;
+   left:-120px;
    padding-top: 40px;
    margin: 10px;
    left:100px;
   }
   
   #birthday{
-   padding-left:-120px;
+   left:-120px;
    padding-top: 40px;
    margin: 10px;
    left:100px;
@@ -94,7 +94,7 @@ margin:auto;}
   
   .birthmonth{
   position: relative;
-  left:-150px;
+  left:-160px;
   top: 20px;
   line-height:40px;
   border-radius:2px;
@@ -133,7 +133,7 @@ margin:auto;}
   }
   .submit{
    font-weight:400; 
-   left:-120px;
+   left:-160px;
    padding-top:20px;
    padding-left: 100px;
    font-weight: 300;
